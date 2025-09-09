@@ -30,6 +30,7 @@ We will be using Zod 4, which is a little bit different from Zod 3, which is use
 
 ### Convex Auth
 ### TailwindCSS 4+
+### Licide
 ### shadcn/ui
 
 Use the shadcn MCP server to discover and learn how to use shadcn components. Also prefer to use tweakcn for theming. The application must support both light mode and dark mode.
