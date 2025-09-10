@@ -25,6 +25,7 @@ Read these and incorporate what you learn into the application:
 - https://stack.convex.dev/presence-with-convex
 - https://stack.convex.dev/presence-with-convex
 - https://stack.convex.dev/typescript-zod-function-validation
+- https://stack.convex.dev/end-to-end-ts
 
 We will be using Zod 4, which is a little bit different from Zod 3, which is used in the example above. But, use the patterns from the article above. 
 
@@ -63,6 +64,8 @@ For development, use the free version of the GPT model.
 ### GPT-5
 
 For production, use the paid version of the GPT model.
+
+### mapbox
 
 ## Patterns
 
