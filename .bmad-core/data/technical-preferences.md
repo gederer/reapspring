@@ -16,18 +16,17 @@ Read https://react.dev/blog/2024/12/05/react-19 and use the latest features. Do 
 
 ### Convex
 
-Use Convex BaaS.
+Use Convex as the backend.
 
-Read these and incorporate what you learn into the application:
+For presence, use these patterns: https://stack.convex.dev/presence-with-convex
 
-- https://stack.convex.dev/authorization
-- https://stack.convex.dev/custom-functions
-- https://stack.convex.dev/presence-with-convex
-- https://stack.convex.dev/presence-with-convex
-- https://stack.convex.dev/typescript-zod-function-validation
-- https://stack.convex.dev/end-to-end-ts
+For Convex functions, use these patterns: https://stack.convex.dev/custom-functions
 
-We will be using Zod 4, which is a little bit different from Zod 3, which is used in the example above. But, use the patterns from the article above. 
+Instead of creating interfaces for use across the application, use the Convex type system as shown here: https://stack.convex.dev/end-to-end-ts
+
+For authorization, use these patterns: https://stack.convex.dev/authorization
+
+Use Zod with TypeScript for Server-side Validation and End-to-End Types as shown here: https://stack.convex.dev/typescript-zod-function-validation. We will be using Zod 4, which is a little bit different from Zod 3, which is used in the example above. But, use the patterns from the article above.
 
 ### Convex Auth
 ### TailwindCSS 4+
